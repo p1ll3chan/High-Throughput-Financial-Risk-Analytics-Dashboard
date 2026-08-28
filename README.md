@@ -4,6 +4,8 @@ A local-development prototype that streams live BTCUSDT, ETHUSDT, and SOLUSDT tr
 normalizes them into Kafka, calculates risk analytics, and presents them in a
 React dashboard.
 
+![Financial Risk Analytics Dashboard Demo](2026-08-2902-05-33-ezgif.com-video-to-gif-converter.gif)
+
 ## Current setup
 
 ```text
