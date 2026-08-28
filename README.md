@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Coming Soon
-=======
 # Real-Time Financial Portfolio & Risk Analytics Dashboard
 
 A local-development prototype that streams live BTCUSDT, ETHUSDT, and SOLUSDT trades from Binance,
