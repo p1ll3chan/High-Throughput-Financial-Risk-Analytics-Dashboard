@@ -314,4 +314,3 @@ To remove the persisted Kafka data as well:
 ```bash
 docker compose -f infrastructure/docker-compose.yml down -v
 ```
->>>>>>> 480cc20 (Initial commit: financial risk analytics dashboard)
